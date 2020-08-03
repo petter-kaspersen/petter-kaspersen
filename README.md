@@ -7,9 +7,6 @@
        :since => "March 2019",
        :to => Date.utc_now,
        :description => "TODO"
-  },
-  :tech => [
-    "TODO"
-  ]
+  }
 }
 ```
