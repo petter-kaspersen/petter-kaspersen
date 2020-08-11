@@ -15,6 +15,14 @@
         :to => "March 2019",
         :role => "Web developer"
       }
+  ],
+  :education => nil,
+  :certificates => [
+    %Certificate{
+      :name => "Full-stack web developer Nanodegree",
+      :issuer => "Udacity",
+      :date => "December 2017"
+    }
   ]
 }
 ```
