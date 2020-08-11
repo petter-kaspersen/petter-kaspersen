@@ -1,4 +1,6 @@
 ```elixir
+# Feel free to reach out to me on my email (petter.hoegmo.kaspersen@gmail.com) if you have any questions
+
 %Person{
   :name => "Petter",
   :tech => ["JavaScript/Node.js", "React", "Next.js", "Elixir", "Phoenix", "Python", "HTML5", "CSS/SCSS"],
