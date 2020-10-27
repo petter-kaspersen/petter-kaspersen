@@ -18,14 +18,6 @@
         :role => "Web developer"
       }
   ],
-  :education => nil,
-  :certificates => [
-    %Certificate{
-      :name => "Full-stack web developer Nanodegree",
-      :issuer => "Udacity",
-      :date => "December 2017",
-      :url => "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044"
-    }
-  ]
+  :education => nil
 }
 ```
