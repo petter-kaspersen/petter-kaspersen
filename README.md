@@ -8,7 +8,7 @@
       %Company{
         :name => "VG",
         :from => "March 2019",
-        :to => Date.utc_now,
+        :to => "December 2020",
         :role => "Full-stack developer"
       },
       %Company{
