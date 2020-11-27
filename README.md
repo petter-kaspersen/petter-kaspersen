@@ -3,7 +3,11 @@
 
 %Person{
   :name => "Petter",
-  :tech => ["JavaScript/Node.js", "React", "Next.js", "Elixir", "Phoenix", "Python", "HTML5", "CSS/SCSS", "Angular", "Vue", "Django", "Flask"],
+  :tech => [
+      "JavaScript/Node.js", "React", "Next.js", "Elixir", 
+      "Phoenix", "Python", "HTML5", "CSS/SCSS", 
+      "Angular", "Vue", "Django", "Flask"
+  ],
   :experience => [
       %Company{
         :name => "APCOA Parking",
