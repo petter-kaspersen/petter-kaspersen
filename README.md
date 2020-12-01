@@ -1,5 +1,5 @@
 ```elixir
-# Feel free to reach out to me on my email (petter.hoegmo.kaspersen@gmail.com) if you have any questions
+# Feel free to reach out to me @ petter.hoegmo.kaspersen@gmail.com if you have any questions
 
 %Person{
   :name => "Petter",
