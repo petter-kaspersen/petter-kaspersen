@@ -6,7 +6,8 @@
   :tech => [
       "JavaScript/Node.js", "React", "Next.js", "Elixir", 
       "Phoenix", "Python", "HTML5", "CSS/SCSS", 
-      "Angular", "Vue", "Django", "Flask"
+      "Angular", "Vue", "Django", "Flask",
+      "PHP", "Laravel"
   ],
   :experience => [
       %Company{
